@@ -1,6 +1,6 @@
 # Federated Graph Learning for Cross-Domain Recommendation (NeurIPS-2024)
 <p align="center">
-  <img src=./FedGCDR.png>
+  <img src=./figure/FedGCDR.png>
 </p>
 
 This is the implementation of FedGCDR in the following paper: \
