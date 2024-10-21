@@ -8,3 +8,15 @@ Ziqi Yang, Zhaopeng Peng, Zihui Wang, Jianzhong Qi, Chaochao Chen, Weike Pan, Ch
 
 ## Data&Code
 Will be released soon.
+
+## Citation
+
+If you find this repository useful in your research, please cite the following paper:
+```
+@article{yang2024federated,
+  title={Federated Graph Learning for Cross-Domain Recommendation},
+  author={Yang, Ziqi and Peng, Zhaopeng and Wang, Zihui and Qi, Jianzhong and Chen, Chaochao and Pan, Weike and Wen, Chenglu and Wang, Cheng and Fan, Xiaoliang},
+  journal={arXiv preprint arXiv:2410.08249},
+  year={2024}
+}
+```
