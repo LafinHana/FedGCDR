@@ -1,16 +1,3 @@
-<!-- # Federated Graph Learning for Cross-Domain Recommendation (NeurIPS-2024)
-<p align="center">
-  <img src=./figure/FedGCDR.png>
-</p>
-
-This is the implementation of FedGCDR in the following paper: \
-Ziqi Yang, Zhaopeng Peng, Zihui Wang, Jianzhong Qi, Chaochao Chen, Weike Pan, Chenglu Wen, Cheng Wang, Xiaoliang Fan∗. "[Federated Graph Learning for Cross-Domain Recommendation](https://arxiv.org/abs/2410.08249)", the Thirty-Eighth Annual Conference on Neural Information Processing Systems.
-
-## Data&Code
-<<<<<<< HEAD
-Will be released soon. -->
-
-
 <div align="center">
 
 <h2 class="papername"> Federated Graph Learning for Cross-Domain Recommendation </h2>
@@ -31,7 +18,7 @@ Will be released soon. -->
 
 [The Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)](https://neurips.cc/Conferences/2024)
 
-[[Paper]](https://arxiv.org/abs/2407.12709)
+[[Paper]](https://arxiv.org/abs/2410.08249)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLafinHana%2FFedGCDR&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -76,23 +63,12 @@ Here we list the recommendation performance comparison of our method and baselin
 
 If you find this work useful for your research, please kindly cite our paper:
 ```
-@inproceedings{shen2024mome,
-    title={MoME: Mixture of Multimodal Experts for Generalist Multimodal Large Language Models}, 
-    author={Shen, Leyang and Chen, Gongwei and Shao, Rui and Guan, Weili and Nie, Liqiang},
-    booktitle={Advances in neural information processing systems},
-    year={2024}
-=======
-Will be released soon.
-
-## Citation
-
-If you find this repository useful in your research, please cite the following paper:
-```
 @article{yang2024federated,
   title={Federated Graph Learning for Cross-Domain Recommendation},
   author={Yang, Ziqi and Peng, Zhaopeng and Wang, Zihui and Qi, Jianzhong and Chen, Chaochao and Pan, Weike and Wen, Chenglu and Wang, Cheng and Fan, Xiaoliang},
   journal={arXiv preprint arXiv:2410.08249},
   year={2024}
->>>>>>> cbaffe67ebba6646e7f1fe1ad0356d8701a83f81
 }
 ```
+
+
