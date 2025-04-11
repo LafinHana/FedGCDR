@@ -121,8 +121,6 @@ server[tar_domain].mlp = MLPs
 # ASYNC
 if args.only_ft == False:
     max_hr, max_ndcg, epoch_id, no_improve = 0, 0, 0, 0
-    for client in clients:
-        client.get_transfer_vec(tar_domain)
     for i in range(args.round_gat):
         print(f'{server[tar_domain].domain_name} gat round {i}: ' + formatted_date_time)
 
